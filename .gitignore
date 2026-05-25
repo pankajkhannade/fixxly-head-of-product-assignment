@@ -19,5 +19,6 @@ __pycache__/
 
 # Not part of assignment repo
 .agents/
+skills-lock.json
 Feedback videos/
 Actual submission for assignment/
